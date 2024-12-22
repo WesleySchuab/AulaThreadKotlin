@@ -2,6 +2,8 @@
 
 **Print da Tela principal**
 
+![image](https://github.com/user-attachments/assets/54f158e9-a5e2-453e-b1a4-37f3b12f0a57)
+
 
 **Descrição:**
 
